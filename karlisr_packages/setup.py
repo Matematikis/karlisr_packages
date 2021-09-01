@@ -3,7 +3,7 @@ from setuptools import setup
 setup(
     # Needed to silence warnings (and to be a worthwhile package)
     name='karlisr_packages',
-    url='https://github.com/jladan/package_demo',
+    url='https://github.com/Matematikis/karlisr_packages',
     author='Karlis R',
     author_email='karlisr@dati.lv',
     # Needed to actually package something
